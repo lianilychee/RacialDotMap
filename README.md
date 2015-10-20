@@ -5,4 +5,6 @@ Python and Processing code for creating (1) a dataset for every person in the U.
 
 http://demographics.coopercenter.org/DotMap/index.html
 
+Methodology: http://www.coopercenter.org/demographics/Racial-Dot-Map
+
 The code was adapted from a similar project by Brandon Martin-Anderson from the MIT Media Lab.
